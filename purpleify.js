@@ -1,4 +1,4 @@
 use strict;
 (function() { 
-        console.log("purple!"); 
+        console.log("purple! (with UW logo in gold)"); 
 }());
